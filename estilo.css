@@ -1,0 +1,47 @@
+body {
+    background-color: #212529;
+}
+.cookie-consent-container {
+    width: 300px;
+    position: fixed;
+    bottom: 0;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #8ecae6;
+}
+
+.container-fluid {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.article {
+    border-radius: 10px;
+    width: 70%;
+}
+
+.artigo {
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.lateral {
+    padding: 20px;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+.footer {
+    background-color: #023047;
+    color: #fff;
+}
+  
+  aside {
+    width: 30%;
+    padding: 20px;
+    margin-left: 20px;
+  }
