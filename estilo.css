@@ -1,14 +1,22 @@
 body {
     background-color: #212529;
 }
+
+.bg-dark {
+    background-color: #023047!important;
+}
+
+.navbar-dark .navbar-brand {
+    color: #ffb703;
+}
+
 .cookie-consent-container {
     width: 300px;
     position: fixed;
     bottom: 0;
-    border: 1px solid #ccc;
     padding: 20px;
     border-radius: 10px;
-    background-color: #8ecae6;
+    background-color: #ffb703;
 }
 
 .container-fluid {
@@ -19,7 +27,7 @@ body {
 
 .article {
     border-radius: 10px;
-    width: 70%;
+    width: 100%;
 }
 
 .artigo {
@@ -38,10 +46,15 @@ body {
 .footer {
     background-color: #023047;
     color: #fff;
+    padding-top: 20px;
+}
+
+.footer a {
+    color: #ffb703;
 }
   
   aside {
-    width: 30%;
+    width: 40%;
     padding: 20px;
     margin-left: 20px;
   }
