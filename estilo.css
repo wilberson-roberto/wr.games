@@ -43,6 +43,12 @@ body {
     margin-bottom: 20px;
 }
 
+.maisviews {
+    background-color: #ffb703;
+    text-align: center;
+    color: #023047;
+}
+
 .footer {
     background-color: #023047;
     color: #fff;
@@ -58,3 +64,12 @@ body {
     padding: 20px;
     margin-left: 20px;
   }
+
+#contato {
+    color: #fff;
+}
+
+#sobre {
+    color: #fff;
+    text-align: justify;
+}
